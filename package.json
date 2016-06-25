@@ -1,6 +1,6 @@
 {
   "name": "wicked-good-stacktracelimit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Set Error.stackTraceLimit early enough",
   "directories": {
     "doc": "doc",
