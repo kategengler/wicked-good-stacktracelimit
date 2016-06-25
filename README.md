@@ -1,4 +1,6 @@
 # wicked-good-stacktracelimit
+[![Build Status](https://travis-ci.org/kategengler/wicked-good-stacktracelimit.svg?branch=master)](https://travis-ci.org/kategengler/wicked-good-stacktracelimit)
+[![Ember Observer Score](https://emberobserver.com/badges/wicked-good-stacktracelimit.svg)](https://emberobserver.com/addons/wicked-good-stacktracelimit)
 
 This addon is a demonstration of creating an addon. For the real addon see ember-cli-stack-trace-limit.
 
