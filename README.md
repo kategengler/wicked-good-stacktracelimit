@@ -1,6 +1,14 @@
-# Wicked-good-stacktracelimit
+# wicked-good-stacktracelimit
 
-This README outlines the details of collaborating on this Ember addon.
+This addon is a demonstration of creating an addon. For the real addon see ember-cli-stack-trace-limit.
+
+This addon sets Error.stackTraceLimit `content-for 'head'` hook.
+It will default to 100 in development and test.
+It is configurable by the `config.stackTraceLimit` property.
+It will default to not being set in production.
+If it is configured in production, it will be set.
+
+To run tests run `npm test`.
 
 ## Installation
 
