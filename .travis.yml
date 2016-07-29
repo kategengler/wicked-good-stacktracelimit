@@ -2,8 +2,9 @@
 language: node_js
 node_js:
   - "4"
-
-sudo: false
+  
+dist: trusty
+sudo: required
 
 addons:
   apt:
